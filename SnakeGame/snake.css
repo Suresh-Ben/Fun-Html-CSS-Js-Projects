@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/581c7ae0e4fcb5a092598bd2/1480001031619-KUYBK8KMGI981XX6BQC2/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/Snake-Pass---Fire-Screenshot-3.jpg?format=1500w");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+button {
+    height: 60px;
+    width: 120px;
+    color: red;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 30px;
+    border: 4px dotted #FDD017;
+    background-color: Transparent;
+    border-radius: 0 40px 0 40px;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 0;
+}
+
+h1 {
+    font-size: 50px;
+    color: #15317E;
+    text-shadow: 2px 2px 10px red;
+}
+
+p {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: red;
+}
+
+canvas {
+    background-color: Transparent;
+}
